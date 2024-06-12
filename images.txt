@@ -1,4 +1,4 @@
 jxxghp/moviepilot
 linuxserver/mariadb
 jumpserver/jms_all
-redis
+bitnami/redis
