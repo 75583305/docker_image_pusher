@@ -1,2 +1,4 @@
 jxxghp/moviepilot
---platform=linux/amd64 moviepilot:latest
+linuxserver/mariadb
+jumpserver/jms_all
+redis
