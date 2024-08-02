@@ -3,5 +3,5 @@ linuxserver/mariadb
 jumpserver/jms_all
 bitnami/redis
 flashcatcloud/nightingale
-80x86/filebrowse
+80x86/filebrowser
 frooodle/s-pdf
