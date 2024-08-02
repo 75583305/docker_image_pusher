@@ -5,3 +5,6 @@ bitnami/redis
 flashcatcloud/nightingale
 80x86/filebrowser
 frooodle/s-pdf
+oxidized/oxidized
+phpipam/phpipam-cron
+phpipam/phpipam-www
