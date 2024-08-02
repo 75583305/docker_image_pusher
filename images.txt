@@ -4,3 +4,4 @@ jumpserver/jms_all
 bitnami/redis
 flashcatcloud/nightingale
 frooodle/s-pdf
+80x86/filebrowse
