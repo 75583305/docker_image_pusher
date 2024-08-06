@@ -8,3 +8,8 @@ frooodle/s-pdf
 oxidized/oxidized
 phpipam/phpipam-cron
 phpipam/phpipam-www
+jumpserver/core
+jumpserver/koko
+jumpserver/lion
+jumpserver/chen
+jumpserver/web
