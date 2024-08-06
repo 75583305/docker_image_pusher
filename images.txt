@@ -8,8 +8,8 @@ frooodle/s-pdf
 oxidized/oxidized
 phpipam/phpipam-cron
 phpipam/phpipam-www
-jumpserver/core
-jumpserver/koko
-jumpserver/lion
-jumpserver/chen
-jumpserver/web
+louislam/uptime-kuma
+whyour/qinglong
+zabbix/zabbix-web-nginx-pgsql
+zabbix/zabbix-server-pgsql
+zabbix/zabbix-agent2
