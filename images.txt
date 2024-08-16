@@ -16,3 +16,4 @@ zabbix/zabbix-agent2
 oxidized/oxidized
 phpipam/phpipam-www
 phpipam/phpipam-cron
+grafana/grafana-enterprise
