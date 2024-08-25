@@ -19,3 +19,4 @@ phpipam/phpipam-cron
 grafana/grafana-enterprise
 grafana/grafana-oss
 ddsderek/wxchat
+surveyking/surveyking
