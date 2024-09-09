@@ -21,3 +21,4 @@ grafana/grafana-oss
 ddsderek/wxchat
 surveyking/surveyking
 6053537/portainer-ce
+xlousp/smartping
