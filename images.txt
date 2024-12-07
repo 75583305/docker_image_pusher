@@ -1,3 +1,4 @@
+nevinee/qbittorrent
 dannicool/docker-wechatbot-webhook
 jxxghp/moviepilot
 linuxserver/mariadb
