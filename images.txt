@@ -1,3 +1,4 @@
+jlesage/firefox
 nevinee/qbittorrent
 dannicool/docker-wechatbot-webhook
 jxxghp/moviepilot
