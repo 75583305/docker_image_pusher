@@ -1,6 +1,6 @@
-wechatpadpro/wechatpadpro
-wechatpadpro/redis
-wechatpadpro/mysql
+wechatpadpro/wechatpadpro:v18.6
+wechatpadpro/redis:6
+wechatpadpro/mysql:8.0
 jlesage/firefox
 nevinee/qbittorrent
 dannicool/docker-wechatbot-webhook
