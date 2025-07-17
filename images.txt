@@ -1,4 +1,6 @@
 wechatpadpro/wechatpadpro
+wechatpadpro/redis
+wechatpadpro/mysql
 1panel/openresty:1.21.4.3-3-3-focal
 jlesage/firefox
 nevinee/qbittorrent
