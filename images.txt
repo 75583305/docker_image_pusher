@@ -1,3 +1,4 @@
+jxxghp/moviepilot-v2
 rabbitmq:3.13.7-management
 ebzz/vxbot
 ebzz/vxxpad
@@ -21,7 +22,6 @@ wechatpadpro/mysql:8.0
 jlesage/firefox
 nevinee/qbittorrent
 dannicool/docker-wechatbot-webhook
-jxxghp/moviepilot
 linuxserver/mariadb
 jumpserver/jms_all
 bitnami/redis
