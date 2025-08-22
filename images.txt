@@ -1,3 +1,4 @@
+linkease/kspeeder
 dockurr/samba
 linuxserver/qbittorrent
 jxxghp/moviepilot-v2
