@@ -1,3 +1,4 @@
+smanx/docker-v2rayn
 linkease/kspeeder
 dockurr/samba
 linuxserver/qbittorrent
