@@ -12,9 +12,7 @@ ebzz/vxxpad
 redis:7.2-alpine
 yobasystems/alpine-mariadb
 mysql:8.4.5
-bitnami/elasticsearch:8.18.0  
 minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1  
-bitnami/etcd:3.5  
 milvusdb/milvus:v2.5.10  
 nsqio/nsq:v1.2.1  
 alpine/curl:8.12.1  
@@ -30,7 +28,6 @@ nevinee/qbittorrent
 dannicool/docker-wechatbot-webhook
 linuxserver/mariadb
 jumpserver/jms_all
-bitnami/redis
 flashcatcloud/nightingale
 80x86/filebrowser
 frooodle/s-pdf
