@@ -1,3 +1,5 @@
+louislam/uptime-kuma
+finab/bark-server
 hezhizheng/go-wxpush:v4
 gethomepage/homepage
 ghcr.io/wg-easy/wg-easy:15
