@@ -1,3 +1,4 @@
+ghcr.io/wechat-article/wechat-article-exporter:latest
 louislam/uptime-kuma
 finab/bark-server
 hezhizheng/go-wxpush:v4
