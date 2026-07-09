@@ -1,4 +1,3 @@
-wickedapp/openclaw
 justlikemaki/openclaw-docker-cn-im
 nginx:alpine
 ghcr.io/wechat-article/wechat-article-exporter:latest
